@@ -12,5 +12,5 @@ Year: 2020-2021, Fall Semester
 - Assignment 1: Regression
 - Assignment 2: KNN and Decision Tree
 - Assignment 3: Naive Bayes, Logistic Regression and Bayes Network
-- Assignment 4: SVM with and without Kernels
-- Assignment 5: Clustering (K-means, Hierarchical, DB-Scan)
+- Assignment 4: SVM with and without Kernels, ‫‪random‬‬ ‫‪forest‬‬ ‫‪classifier‬‬
+- Final Project: Clustering (K-means, Hierarchical, DB-Scan), RL, ensemble learning
