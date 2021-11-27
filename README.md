@@ -9,7 +9,8 @@ Professor: [Dr. Ehsan Nazerfard](https://ce.aut.ac.ir/~nazerfard/main.htm)
 
 Year: 2020-2021, Fall Semester
 
-- Assignment 1: Linear Algebra and Probability Theory
-- Assignment 2: Bayesian Decision Theory and MLE
-- Assignment 3: Nonparametric Estimation, LDA
-- Assignment 4: PCA, LDA, Clustering,
+- Assignment 1: Regression
+- Assignment 2: KNN and Decision Tree
+- Assignment 3: Naive Bayes, Logistic Regression and Bayes Network
+- Assignment 4: SVM with and without Kernels
+- Assignment 5: Clustering (K-means, Hierarchical, DB-Scan)
